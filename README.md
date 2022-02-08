@@ -14,3 +14,6 @@ Financial controller made to manage all your finances with all controls options(
 - **JS**
 ## Back End
 - **JS**
+
+# 📝 License
+This project have the license of the [MIT](./LICENSE).
