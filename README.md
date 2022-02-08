@@ -4,5 +4,5 @@ Financial controller made to manage all your finances with all controls options(
 
 ## Interface 
 <h1 align="center">
-    <img alt="Financial_GIF" title="Financial_Control_GIF" src="github/financial_control.gif">
+    <img alt="Financial_GIF" title="Financial_Control_GIF" src="github/financial_controller.gif">
 </h1>
